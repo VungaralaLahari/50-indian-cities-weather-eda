@@ -1,0 +1,51 @@
+City,Temperature,Feels Like,Humidity,Pressure,Visibility,Wind Speed,Weather Description,Cluster,Cluster_Name,Region
+Hyderabad,31.79,31.65,38,1006,10000,3.12,overcast clouds,1,Humid Coastal,Inland
+Mumbai,30.95,36.31,66,1010,10000,5.81,broken clouds,0,Hot & Dry,Coastal
+Delhi,32.18,32.02,37,1004,10000,6.76,overcast clouds,1,Humid Coastal,Inland
+Chennai,31.76,38.76,69,1006,10000,0.45,overcast clouds,2,Cool Cities,Coastal
+Bengaluru,27.97,29.98,65,1011,10000,3.76,overcast clouds,0,Hot & Dry,Inland
+Kolkata,30.48,36.79,72,1004,10000,6.43,scattered clouds,0,Hot & Dry,Coastal
+Pune,28.56,28.26,41,1011,10000,4.73,scattered clouds,0,Hot & Dry,Coastal
+Jaipur,26.9,27.89,59,1006,10000,8.82,scattered clouds,0,Hot & Dry,Inland
+Ahmedabad,32.03,34.42,50,1006,10000,7.48,clear sky,1,Humid Coastal,Inland
+Lucknow,36.98,35.37,20,1001,10000,3.23,clear sky,1,Humid Coastal,Inland
+Surat,30.15,34.44,66,1008,10000,8.74,clear sky,0,Hot & Dry,Coastal
+Indore,33.77,33.15,31,1006,10000,5.94,scattered clouds,1,Humid Coastal,Inland
+Bhopal,31.36,31.23,39,1005,10000,3.19,overcast clouds,1,Humid Coastal,Inland
+Nagpur,34.56,33.86,29,1003,10000,2.93,scattered clouds,1,Humid Coastal,Inland
+Patna,36.61,35.09,21,1001,10000,2.92,clear sky,1,Humid Coastal,Inland
+Vadodara,34.09,36.69,44,1006,10000,5.73,clear sky,1,Humid Coastal,Inland
+Coimbatore,25.14,25.96,86,1011,10000,5.01,overcast clouds,0,Hot & Dry,Inland
+Kochi,27.44,31.49,86,1011,10000,4.84,overcast clouds,0,Hot & Dry,Coastal
+Visakhapatnam,28.67,32.19,71,1007,10000,5.66,overcast clouds,0,Hot & Dry,Coastal
+Mysore,23.2,23.64,79,1011,10000,3.87,broken clouds,0,Hot & Dry,Inland
+Vijayawada,33.75,36.33,45,1004,10000,1.01,overcast clouds,2,Cool Cities,Inland
+Guwahati,26.06,26.06,91,1005,10000,1.46,few clouds,2,Cool Cities,Inland
+Chandigarh,32.1,32.07,38,1002,10000,4.91,clear sky,1,Humid Coastal,Inland
+Noida,32.45,32.39,37,1004,10000,6.63,overcast clouds,1,Humid Coastal,Inland
+Gurgaon,31.78,31.48,37,1004,10000,6.16,overcast clouds,1,Humid Coastal,Inland
+Agra,31.88,33.05,45,1003,10000,7.84,few clouds,1,Humid Coastal,Inland
+Varanasi,37.48,36.0,20,1001,10000,1.51,clear sky,1,Humid Coastal,Inland
+Amritsar,34.13,33.12,28,1000,10000,3.07,clear sky,1,Humid Coastal,Inland
+Ranchi,31.49,29.89,26,1004,10000,3.28,clear sky,1,Humid Coastal,Inland
+Raipur,33.99,34.92,38,1003,10000,4.9,overcast clouds,1,Humid Coastal,Inland
+Jodhpur,32.75,35.0,47,1003,10000,8.86,clear sky,1,Humid Coastal,Inland
+Udaipur,29.19,30.45,54,1007,10000,5.68,clear sky,0,Hot & Dry,Inland
+Gwalior,33.94,33.76,33,1003,10000,5.11,clear sky,1,Humid Coastal,Inland
+Madurai,28.21,30.66,67,1009,10000,1.96,overcast clouds,2,Cool Cities,Inland
+Salem,30.31,35.55,69,1010,10000,0.95,broken clouds,2,Cool Cities,Inland
+Tiruchirappalli,30.98,34.32,58,1009,10000,5.12,overcast clouds,0,Hot & Dry,Inland
+Thrissur,26.37,26.37,92,1011,10000,1.93,overcast clouds,0,Hot & Dry,Inland
+Mangalore,27.89,32.43,84,1010,10000,3.64,broken clouds,0,Hot & Dry,Coastal
+Shillong,17.73,18.04,95,1010,10000,2.01,scattered clouds,0,Hot & Dry,Inland
+Dehradun,25.78,25.77,52,1006,10000,1.29,scattered clouds,2,Cool Cities,Inland
+Shimla,16.92,15.95,49,1008,10000,2.79,clear sky,0,Hot & Dry,Inland
+Haridwar,28.12,28.68,51,1004,10000,2.62,scattered clouds,2,Cool Cities,Inland
+Jamshedpur,32.45,36.59,55,1003,10000,2.28,clear sky,2,Cool Cities,Inland
+Srinagar,16.79,16.67,82,1011,10000,1.83,overcast clouds,0,Hot & Dry,Inland
+Jammu,31.28,30.58,35,1001,10000,2.67,few clouds,1,Humid Coastal,Inland
+Allahabad,37.59,36.34,21,1001,10000,2.53,clear sky,1,Humid Coastal,Inland
+Bareilly,33.72,33.84,35,1002,10000,6.15,broken clouds,1,Humid Coastal,Inland
+Morādābād,32.65,32.32,35,1002,10000,7.66,broken clouds,1,Humid Coastal,Inland
+Aligarh,32.63,33.41,41,1003,10000,8.8,broken clouds,1,Humid Coastal,Inland
+Ajmer,32.84,33.53,40,1005,10000,6.79,clear sky,1,Humid Coastal,Inland
